@@ -1,1 +1,3 @@
-# cmd
+# maven-project
+
+Simple Maven Project
